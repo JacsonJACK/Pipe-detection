@@ -1,5 +1,5 @@
 
-#installed numpy-2.0.0 opencv-python-4.10.0.84
+# numpy-2.0.0 opencv-python-4.10.0.84
 
 import cv2
 import numpy as np
